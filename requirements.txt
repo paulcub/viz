@@ -1,4 +1,0 @@
-pandas
-altair
-voila
-voila-material
